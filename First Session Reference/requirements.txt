@@ -1,0 +1,13 @@
+langchain-core
+langchain-community
+langchain
+streamlit
+langchain-groq
+ipykernel
+<<<<<<< HEAD:requirements.txt
+rapidocr-onnxruntime
+pypdf
+sentence-transformers
+faiss-cpu
+=======
+>>>>>>> 9ce1daa303d5a60582fa68b70b1211407365c9d6:First Session Reference/requirements.txt
