@@ -1,4 +1,4 @@
-# Generative AI & Agentic AI - L& D LEarning path
+# Generative AI & Agentic AI - L& D Learning path
 ## 📜 Overview
 
 Welcome to the official repository for our Generative AI & Agentic AI learning path. This program is designed to equip our team with the essential skills and advanced knowledge required to design, build, and deploy sophisticated AI-powered applications.
